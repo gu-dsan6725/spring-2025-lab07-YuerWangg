@@ -28,6 +28,7 @@ dependencies = [
     "ipykernel",
     "python-dotenv",
     "nvitop",
+    "ipywidgets",
 ]
 
 [build-system]
